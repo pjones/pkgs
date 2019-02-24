@@ -1,0 +1,29 @@
+#!/bin/sh
+
+################################################################################
+# Drops you into an environment where you can debug a package.  Usage:
+#
+# $ nix-debug-package gromit-mpx
+# [nix-shell:~/src/oss/nixpkgs]$ gdb gromit-mpx
+#
+set -e
+set -u
+
+################################################################################
+top=$(realpath "$(dirname "$0")/..")
+
+################################################################################
+if [ $# -eq 0 ]; then
+  >&2 echo "ERROR: give at least one package attribute to debug."
+  exit 1
+fi
+
+################################################################################
+if [ -e pkgs/top-level/all-packages.nix ]; then
+  file="./default.nix"
+else
+  file="<nixpkgs>"
+fi
+
+################################################################################
+nix-shell -E "with import $file { overlays = [ (import $top/overlay.nix) ]; }; (pjones.debug.gdbForPackages [$*]).env"

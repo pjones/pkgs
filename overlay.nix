@@ -5,13 +5,14 @@ super:  # Base package set.
 
 let
   utils = import ./utils.nix { pkgs = super; };
+  debug = import ./utils/debug.nix self super;
 
 in rec {
   pjones = {
 
     ############################################################################
     # Export my utility functions so I can use them elsewhere:
-    inherit utils;
+    inherit utils debug;
 
     ############################################################################
     # Configuration files:
@@ -20,7 +21,7 @@ in rec {
     tmuxrc  = utils.fetchGitJSON ./rc/tmuxrc.json;
     zshrc   = utils.fetchGitJSON ./rc/zshrc.json;
 
-    ##############################################################################
+    ############################################################################
     # Miscellaneous scripts:
     backup-scripts   = utils.fetchGitJSON ./scripts/backup-scripts.json;
     dns-scripts      = utils.fetchGitJSON ./scripts/dns-scripts.json;
