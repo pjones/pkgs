@@ -24,7 +24,7 @@ in
       ghc7103 = haskellOverride super.haskell.packages.ghc7103;
       ghc802  = haskellOverride super.haskell.packages.ghc802;
       ghc822  = haskellOverride super.haskell.packages.ghc822;
-      ghc841  = haskellOverride super.haskell.packages.ghc841;
+      ghc844  = haskellOverride super.haskell.packages.ghc844;
     };
   };
 }

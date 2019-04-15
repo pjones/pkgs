@@ -27,5 +27,12 @@ in rec {
     dns-scripts      = utils.fetchGitJSON ./scripts/dns-scripts.json;
     encryption-utils = utils.fetchGitJSON ./scripts/encryption-utils.json;
 
-  };
-} // (import ./haskell/default.nix self super)
+  }
+  # Bring in all of my Haskell packages:
+  // (import ./haskell/overrides.nix self self super);
+
+
+}
+
+# Override system Haskell packages:
+// (import ./haskell/default.nix self super)

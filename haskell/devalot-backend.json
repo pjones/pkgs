@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/devalot-backend.git",
-  "rev": "06ad1988c46e50336b33400492b1a3060d3a00c6",
-  "date": "2018-10-09T14:01:42-07:00",
-  "sha256": "1ygkhkvav9i0sfr0ar51a3irnrrmlmp51jqaqm6jpns24pf85mlk",
+  "rev": "8d293a4dbd6c4d40e04b6c06ee638f88bc6f01c5",
+  "date": "2019-04-15T13:29:21-07:00",
+  "sha256": "1zkzvl9a6zv6zfzv9dd37md292i3crzsllwq2cp4rhq57rcb3rm9",
   "fetchSubmodules": false
 }

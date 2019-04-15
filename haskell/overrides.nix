@@ -11,6 +11,7 @@ in {
   personal-webhooks = utils.fetchGitJSON ./personal-webhooks.json;
   playlists         = utils.fetchGitJSON ./playlists.json;
   playlists-http    = utils.fetchGitJSON ./playlists-http.json;
+  sthenauth         = utils.fetchGitJSON ./sthenauth.json;
   themoviedb        = utils.fetchGitJSON ./themoviedb.json;
   vimeta            = utils.fetchGitJSON ./vimeta.json;
   wschat            = utils.fetchGitJSON ./wschat.json;
