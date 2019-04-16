@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/clockdown.git",
-  "rev": "081cce8f0bca23e9bab5dd64656af5f2d89b6bea",
-  "date": "2018-10-09T13:31:52-07:00",
-  "sha256": "13zw46aw57r8w4vp3irra948izy5gz91wx8b0nkc4zgv3w39wsnm",
+  "rev": "bb7b6fd0a01f1e0ef21b8ca4daab88cb4670d555",
+  "date": "2019-04-16T13:28:26-07:00",
+  "sha256": "1r2m4g4zxmqgqxpzfpx9hfs0cn0ggf3w7v2yyxrbld048grickha",
   "fetchSubmodules": false
 }

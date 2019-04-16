@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/wschat.git",
-  "rev": "46d20e889f975aaffa726d682b90fd3ad9f7af0c",
-  "date": "2018-10-19T09:22:03-07:00",
-  "sha256": "01whg59mmhyma9ls3qbk3n0i29p3h8jcmkkcr5ski5mbz729n7ah",
+  "rev": "ac28f0a8a4d6feafc8635ffe4ef1bb82c24ab2a3",
+  "date": "2019-04-16T14:00:49-07:00",
+  "sha256": "1g6ph16h4vcmzmmhdnzzh8mq2mgs52vzc7s538k1q77f1d6wcgig",
   "fetchSubmodules": false
 }

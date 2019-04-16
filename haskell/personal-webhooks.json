@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/personal-webhooks.git",
-  "rev": "ac409527a4ab6a0590c7e487d35025bcb0aa916b",
-  "date": "2018-10-23T12:21:30-07:00",
-  "sha256": "1zmqk3fv70nwaw2wr0jyyqq17j4q710vhgjy0qyzs2n83gr4vb6z",
+  "rev": "184a50e74caa47071f7df02343e6a9a59d0cbb58",
+  "date": "2019-04-15T15:05:40-07:00",
+  "sha256": "0ds9ly40r75s5601zbv47klwfzf477ppxny20d1rfyms3dsa6xd6",
   "fetchSubmodules": false
 }

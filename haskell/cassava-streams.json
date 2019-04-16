@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/cassava-streams.git",
-  "rev": "2754af64275bbb54eefb9a7e2e680fca6b50ad57",
-  "date": "2018-10-09T13:56:44-07:00",
-  "sha256": "0dh2jsf8arzzfspnpybbwv5aqfzqa3n9bx9iqm0x6sgi2i07w7v3",
+  "rev": "bd4d86d66a4de06bea475bf53bcc83e0efd3bcbc",
+  "date": "2019-04-15T15:24:53-07:00",
+  "sha256": "0fkgs4w2gcs9n7xqj8ljmmfmz17v147xbxf4h1a3xnpvap5nw9gf",
   "fetchSubmodules": false
 }
