@@ -16,10 +16,11 @@ in rec {
 
     ############################################################################
     # Configuration files:
-    bashrc  = utils.fetchGitJSON ./rc/bashrc.json;
-    emacsrc = utils.fetchGitJSON ./rc/emacsrc.json;
-    tmuxrc  = utils.fetchGitJSON ./rc/tmuxrc.json;
-    zshrc   = utils.fetchGitJSON ./rc/zshrc.json;
+    bashrc   = utils.fetchGitJSON ./rc/bashrc.json;
+    emacsrc  = utils.fetchGitJSON ./rc/emacsrc.json;
+    tmuxrc   = utils.fetchGitJSON ./rc/tmuxrc.json;
+    zshrc    = utils.fetchGitJSON ./rc/zshrc.json;
+    xmonadrc = utils.fetchGitJSON ./rc/xmonadrc.json;
 
     ############################################################################
     # Miscellaneous scripts:
