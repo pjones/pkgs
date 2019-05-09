@@ -1,7 +1,7 @@
 {
   "url": "https://code.devalot.com/pjones/xmonadrc.git",
-  "rev": "f87de6afeb9998f9edbb0fe2b2c614614e4402a8",
-  "date": "2019-05-05T14:10:34-07:00",
-  "sha256": "0z0x5j63bw2ay2xvkvlm2fk7p55icplbzydqxlsgqqsxdg2c3kqc",
+  "rev": "b49f5dd1cd93a1f1c72a01b407385d7e2843cb96",
+  "date": "2019-05-09T10:06:55-07:00",
+  "sha256": "05sfc42lbnfhxp3f01sgf2sicrgmxrx15ydk79cz0qmgd8d5dpc2",
   "fetchSubmodules": false
 }
