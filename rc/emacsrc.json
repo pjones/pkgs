@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/emacsrc.git",
-  "rev": "c4f5790a25d424f465ec33b7d98bb00ef20085dc",
-  "date": "2019-05-09T11:00:24-07:00",
-  "sha256": "0rcz4cwgkjjzkc75nqgl992fkkz8dyz3qxxhk21yc82zsx8ifgz6",
+  "rev": "7f9d697907f7fade99ee335c572b9c5d4f890a55",
+  "date": "2019-05-13T11:20:44-07:00",
+  "sha256": "07k189vrk7b8b47bxhf8am0w6w3k8bgfbsawl1qvj1ypqhv1n42q",
   "fetchSubmodules": false
 }
