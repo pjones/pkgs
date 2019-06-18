@@ -27,6 +27,7 @@ in rec {
     backup-scripts   = utils.fetchGitJSON ./scripts/backup-scripts.json;
     dns-scripts      = utils.fetchGitJSON ./scripts/dns-scripts.json;
     encryption-utils = utils.fetchGitJSON ./scripts/encryption-utils.json;
+    network-scripts  = utils.fetchGitJSON ./scripts/network-scripts.json;
 
   }
   # Bring in all of my Haskell packages:
