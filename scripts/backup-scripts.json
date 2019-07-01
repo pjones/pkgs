@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/backup-scripts.git",
-  "rev": "d36af5e066ecb0b678a17501cd7d757ceb49166e",
-  "date": "2019-01-31T17:02:34-07:00",
-  "sha256": "1zabd0rgkjzbsv8npm4n3xnic8q26qbvxgmd694nv3gdqr0y86wb",
+  "rev": "50d6b6ee94360e438a2a9fccf25bfbfea378ed83",
+  "date": "2019-06-30T18:04:30-07:00",
+  "sha256": "1magqpsw08ba1hvzbnc8llsn16y8pxbdwa0maqk95w0yw531jnzg",
   "fetchSubmodules": false
 }
