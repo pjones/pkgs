@@ -1,7 +1,7 @@
 {
   "url": "git://git.devalot.com/zshrc.git",
-  "rev": "894ef1ba48deffee14f366ac427f23ae169030fe",
-  "date": "2019-08-04T17:44:33-07:00",
-  "sha256": "1z229h122ca7arv7ki41ick3vgy4hl2z1ka0bmsi81bcsq144mmn",
+  "rev": "74d0c2a608e7ef850d7037a23987346deba34c7c",
+  "date": "2019-08-25T11:11:22-07:00",
+  "sha256": "18jm0wrrqhgqdq1md66wa3lqvvbjzal3sy26x7hyypkklq4s4mwq",
   "fetchSubmodules": false
 }
