@@ -1,7 +1,7 @@
 {
-  "url": "git://git.devalot.com/byline.git",
-  "rev": "a45d3ffc8c6aee99a1cb5269e00d91dad57bbc8c",
-  "date": "2019-04-15T16:27:05-07:00",
-  "sha256": "1wzvlc7488bdwii69xr72pvhn74skkm7aqd4rkayqklmfw099vw9",
+  "url": "https://code.devalot.com/open/byline.git",
+  "rev": "f2e6eb1926873433129d3103efe11090b3f1b514",
+  "date": "2019-09-12T12:50:26-07:00",
+  "sha256": "1xpyqqvqgk51s9m3ra16m39i9qy013fac4nyrmngwa8hk7lgj130",
   "fetchSubmodules": false
 }

@@ -1,7 +1,7 @@
 {
-  "url": "git://git.devalot.com/vimeta.git",
-  "rev": "63111068b77c5b114591342dc81eda0b093b730c",
+  "url": "https://code.devalot.com/open/vimeta.git",
+  "rev": "4172e16975bb58802058d7778b9b3926b591a083",
   "date": "2019-04-16T13:15:28-07:00",
-  "sha256": "1wzh2y0aqgmq75a02c685iv8a1pj99z4w3bj7k4ks6l1rcg5zkw8",
+  "sha256": "12spy9kiqp38fafcvn2gxv0503wqihg5vgj0va6ykmdv78asnv80",
   "fetchSubmodules": false
 }
